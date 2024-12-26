@@ -9,7 +9,7 @@ const font = Space_Grotesk({ subsets: ["latin"], weight: "400" });
 
 export const metadata: Metadata = {
   title: "OpenChat",
-  description: "An OpenAI based chat system",
+  description: "An Groq based chat system",
 };
 
 export default function RootLayout({
